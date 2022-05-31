@@ -1,0 +1,4 @@
+name: Objectifyframework Test Bukkit
+version: '${project.version}'
+main: ru.armagidon.objectifyframeworktestbukkit.ObjectifyframeworkTestBukkit
+api-version: 1.18
